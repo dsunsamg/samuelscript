@@ -306,7 +306,7 @@ background: #229954;
                 <li class="nav-item"><a class="nav-link" href="#about">About</a></li>
                 <li class="nav-item"><a class="nav-link" href="#services">Services</a></li>
                 <li class="nav-item"><a class="nav-link" href="#portfolio">Portfolio</a></li>
-                <li class="nav-item"><a class="nav-link" href="#colleagues">Colleagues</a></li>
+                <?php /* <li class="nav-item"><a class="nav-link" href="#colleagues">Colleagues</a></li> */ ?>
                 <li class="nav-item"><a class="nav-link" href="#contact">Contact</a></li>
             </ul>
         </div>
@@ -470,6 +470,7 @@ background: #229954;
 </div>
 
 
+<?php /*
 <!-- Colleagues Section -->
 <section id="colleagues" class="py-5 bg-light" data-aos="fade-up">
   <div class="container">
@@ -576,6 +577,7 @@ background: #229954;
     </div>
   </div>
 </section>
+*/ ?>
 
 <!--<section id="feedback" class="py-5" data-aos="fade-up">
   <div class="container">
