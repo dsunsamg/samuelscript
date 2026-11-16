@@ -1,0 +1,36 @@
+/* Fonts */
+body {
+  font-family: 'Roboto', sans-serif;
+  color: #fff;
+}
+
+/* Hero Section */
+.hero {
+  background: linear-gradient(rgba(0, 0, 0, 0.6), rgba(0, 0, 0, 0.6)),
+              url('banner.mp4') no-repeat center center fixed;
+  background-size: cover;
+  min-height: 100vh;
+  padding: 0 1rem;
+}
+
+.hero h1 {
+  font-family: 'Playfair Display', serif;
+  font-size: 3rem;
+  color: #fff;
+}
+
+.hero .lead {
+  font-size: 1.5rem;
+  color: #ccc;
+}
+
+.btn-light {
+  background-color: #f1c40f;
+  border: none;
+  color: #000;
+  font-weight: bold;
+}
+
+.btn-light:hover {
+  background-color: #e1b300;
+}
